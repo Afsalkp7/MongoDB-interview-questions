@@ -47,6 +47,11 @@ An introduction to the MongoDB interview questions, including the structure of t
 - Geospatial Support: Allows geospatial data storage and queries.
 - Load Balancing: Distributes data across multiple machines for load balancing.
 
+### 3- Difference between vertical scaling and horizontal scaling ?
+
+**Answer:** Vertical Scaling: Adding more power (CPU, RAM) to an existing machine.
+Horizontal Scaling: Adding more machines to handle the workload.
+
 ## Intermediate Questions
 
 List of intermediate MongoDB interview questions and answers.
