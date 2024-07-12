@@ -33,6 +33,20 @@ An introduction to the MongoDB interview questions, including the structure of t
 
 **Answer:** "MongoDB is a NoSQL database that is schema-less, document-oriented, and non-relational, storing data in JSON-like formats."
 
+### 2. What are the main features of MongoDB?
+
+**Answer:** The main features of MongoDB include:
+
+- Document-Oriented Storage: Stores data in flexible, JSON-like documents.
+- Schema-less: Allows dynamic schema design.
+- Scalability: Supports horizontal scaling through sharding.
+- Replication: Provides high availability with replica sets.
+- Indexing: Supports various types of indexing for fast query performance.
+- Aggregation Framework: Offers powerful tools for data aggregation and transformation.
+- Ad Hoc Queries: Supports dynamic queries with rich query language.
+- Geospatial Support: Allows geospatial data storage and queries.
+- Load Balancing: Distributes data across multiple machines for load balancing.
+
 ## Intermediate Questions
 
 List of intermediate MongoDB interview questions and answers.
