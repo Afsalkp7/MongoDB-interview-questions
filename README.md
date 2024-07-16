@@ -2,7 +2,7 @@
 
 ---
 
-**Author:** Afsal KP  
+**Author:** Afsal KP 👨‍💻👨‍💻
 **Date:** July 12, 2024
 
 ---
