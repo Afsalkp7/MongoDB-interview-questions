@@ -177,7 +177,7 @@ An introduction to the MongoDB interview questions, including the structure of t
 - **Use Case:** When you need to perform straightforward queries and return documents directly.
 - **Example:**
   ![Code](code_image_4.png)
-
+  
 **aggregate():**
 - **Purpose:** Performs complex data aggregation operations, transforming and processing data through multiple stages.
 - **Functionality:** Supports various stages like `$match`, `$group`, `$sort`, `$project`, `$unwind`, `$lookup`, and more. Allows for advanced data transformations and computations.
